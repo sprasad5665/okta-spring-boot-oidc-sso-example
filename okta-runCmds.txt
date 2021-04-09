@@ -1,0 +1,5 @@
+java -Dserver.port=8080 -Dokta.oauth2.client-id=0oakbh02lVuZej46w5d6 -Dokta.oauth2.client-secret=7mINYMXHduzhPgcmQlyxZ76UmM7d3N4VaxvEngeF -Dokta.oauth2.issuer=https://dev-70011953.okta.com/oauth2/auskbjhwvbPb8nBxL5d6 -jar target/spring-boot-oidc-sso-0.0.1-SNAPSHOT.jar
+
+java -Dserver.port=8081 -Dokta.oauth2.client-id=0oakbhougPe97xsup5d6 -Dokta.oauth2.client-secret=LSRunNGxDUCF52Qrkra9I23x7WUYgSkTH6M3xrie -Dokta.oauth2.issuer=https://dev-70011953.okta.com/oauth2/auskbi434NUFPpcza5d6 -jar target/spring-boot-oidc-sso-0.0.1-SNAPSHOT.jar
+
+
